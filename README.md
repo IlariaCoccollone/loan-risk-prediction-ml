@@ -40,7 +40,6 @@ This project explores loan applicant characteristics and performs risk assessmen
 Source: [Loan Approval Dataset on Kaggle](https://www.kaggle.com/datasets/rohit265/loan-approval-dataset)
 
 ## Author 👩🏻‍💻  
-**Name**: Ilaria Coccollone, Giovanni Noè
-
-**Email**: i.coccollone@campus.unimib.it, g.noe3@campus.unimib.it
+**Name**: Ilaria Coccollone - Giovanni Noè
+**Email**: i.coccollone@campus.unimib.it - g.noe3@campus.unimib.it
 
