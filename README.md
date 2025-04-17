@@ -13,10 +13,10 @@ This project explores loan applicant characteristics and performs risk assessmen
    KNIME workflow for data exploration. Visualizing and analyzing the data using various charts and graphs and identifying correlations and patterns in the features.
 
 3. **[ml_project_training.knwf](./ml_project_training.knwf)**  
-   KNIME workflow for training machine learning models:
+   KNIME workflow for training machine learning models.
 
 4. **[ml_project_deploying.knwf](./ml_project_deploying.knwf)**  
-   KNIME workflow for applying the trained model and predicting loan risk on new data
+   KNIME workflow for applying the trained model and predicting loan risk on new data.
 
 
 5. **[Predicting_Loan_Risk.pdf](./Predicting_Loan_Risk.pdf)**  
@@ -41,5 +41,6 @@ Source: [Loan Approval Dataset on Kaggle](https://www.kaggle.com/datasets/rohit2
 
 ## Author 👩🏻‍💻  
 **Name**: Ilaria Coccollone, Giovanni Noè
+
 **Email**: i.coccollone@campus.unimib.it, g.noe3@campus.unimib.it
 
