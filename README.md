@@ -36,8 +36,8 @@ This project explores loan applicant characteristics and performs risk assessmen
 4. **Read the Report**  
    See `Predicting_Loan_Risk.pdf` for a complete summary of the project’s findings.
 
-## Dataset 📊  
-📂 Source: [Loan Approval Dataset on Kaggle](https://www.kaggle.com/datasets/rohit265/loan-approval-dataset)
+## Dataset   
+Source: [Loan Approval Dataset on Kaggle](https://www.kaggle.com/datasets/rohit265/loan-approval-dataset)
 
 ## Author 👩🏻‍💻  
 **Name**: Ilaria Coccollone  
